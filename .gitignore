@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.log
+
+# torchkge 数据缓存（首次运行自动下载到用户目录，不会出现在这里；防御性忽略）
+.torchkge_data/
+data/
+
+# 训练过程的临时文件
+*.part
+*.tmp

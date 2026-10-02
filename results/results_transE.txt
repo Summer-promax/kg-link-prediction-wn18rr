@@ -1,0 +1,2 @@
+TransE @ WN18RR (filtered)
+MRR=0.1503 Hit@1=0.0029 Hit@3=0.2892 Hit@10=0.3803 MeanRank=7280.0
